@@ -1,7 +1,6 @@
  # 🌍 Terraws - AWS Infrastructure with Terraform 🛠️
  
- <img width="960" alt="19" src="https://github.com/user-attachments/assets/c152add9-beab-4d2d-a546-b1162d0ad59c">
- 
+<img width="960" alt="19 (1)" src="https://github.com/user-attachments/assets/9306a105-358e-4bcc-8a77-82bf9c6ba689">
  
  ## 🎯 Project Overview
  
